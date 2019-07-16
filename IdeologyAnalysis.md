@@ -1,3 +1,8 @@
+---
+layout: default
+title: 时代透镜：用时间线挖掘新闻背后的政治
+---
+
 # 时代透镜：用时间线挖掘新闻背后的政治
 
 2017年哪条新闻最让你气愤？我，沉默30秒，什么也想不起。
@@ -82,3 +87,8 @@ _PS：一个干他娘的程序猿，用烂得一逼的文笔操着新闻记者�
 * [3] 张千帆：极权主义的建构与解构, http://zhanlve.org/?p=195
 * [4] 中国政治与社会事件时间线数据仓库, https://github.com/chinatimeline/data/
 * [5] 阅后即焚：”GFW” 的前世今生 https://web.archive.org/web/20170923114736/http://www.chinagfw.org/2009/08/gfw_30.html
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101192940);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101192940ns.gif" /></p></noscript>
